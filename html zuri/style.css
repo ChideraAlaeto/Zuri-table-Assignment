@@ -1,0 +1,55 @@
+/* =====  header ====== */
+
+.table__header{
+text-align: center;
+
+
+}
+
+caption{
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+
+
+
+/* ====== table ======= */
+table{
+    width: 100%;
+    
+}
+table, th, td {
+    border: 1px solid black;
+}  
+
+
+
+.subject {
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.t{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.student__scorces{
+   
+    margin-left: 30px;
+    color: blue;
+}
+
+#scorce{
+    text-align: center;
+}
+
+.Total__scores td{
+    text-align: center;
+
+}
+
